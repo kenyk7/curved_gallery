@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+- [Inspired ui design](https://dribbble.com/shots/10742324-App-ui-design)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
