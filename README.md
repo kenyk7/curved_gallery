@@ -3,6 +3,11 @@
 A new Flutter project.
 
 - [Inspired ui design](https://dribbble.com/shots/10742324-App-ui-design)
+
+Preview:
+
+[![Curved Gallery](https://github.com/kenyk7/curved_gallery/blob/dev/preview.jpeg?raw=true)](https://github.com/kenyk7/curved_gallery "Curved Gallery")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
